@@ -49,7 +49,7 @@ This project was built for the **Midnight Hackathon (Midnight Hackathon 2025)**.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/midknight.git
+git clone https://github.com/sherwinvishesh/MidKnight.git
 cd midknight
 ```
 
@@ -84,6 +84,12 @@ This will install the `midnight-ai` command globally on your system.
 # from the project root
 python3 midknight.py
 ```
+or you can just
+```bash
+# from the project root
+midknight 
+```
+in the terminal
 
 On first launch you’ll see a welcome screen and be guided through a quick setup:
 

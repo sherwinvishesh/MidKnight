@@ -1,10 +1,10 @@
 {
-    "name": "midnight-ai-cli",
+    "name": "midknight",
     "version": "1.1.0",
     "description": "AI-powered assistant for Midnight smart contracts (Python Backend).",
     "main": "index.js",
     "bin": {
-      "midnight-ai": "./index.js"
+      "midknight": "./index.js"
     },
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"

@@ -5,7 +5,7 @@ const path = require('path');
 const fs = require('fs');
 
 const args = process.argv.slice(2);
-const analyserPath = path.join(__dirname, 'analyser.py');
+const analyserPath = path.join(__dirname, 'midknight.py');
 
 // Prefer venv Python if present (.venv or venv; Unix or Windows)
 const venvCandidates = [
