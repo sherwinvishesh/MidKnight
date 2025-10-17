@@ -7,6 +7,8 @@
 ██║ ╚═╝ ██║ ██║ ██████╔╝ ██║ ╚██╗ ██║ ╚████║ ██║ ╚██████╔╝ ██║  ██║    ██║
 ╚═╝     ╚═╝ ╚═╝ ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═╝  ╚═════╝  ╚═╝  ╚═╝    ╚═╝
 ```
+![Midknight Hero](https://img.shields.io/badge/Status-Hackathon_MVP-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue) ![Python](https://img.shields.io/badge/Python-3.1+-green) ![FastAPI](https://img.shields.io/badge/FastAPI-Latest-teal)
+
 **MidKnight** is a command-line assistant designed to help you build **secure, private, and robust applications** on the **Midnight blockchain**
 
 It combines the **power of AI (Google Gemini)** with a **Python analysis engine** and a **Node.js CLI wrapper**, giving developers an intuitive way to:
